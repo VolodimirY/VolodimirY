@@ -4,12 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at IN.TRA.M s.r.o as a web developer\
+👨‍💻 &nbsp;I am Currently Working at IN.TRA.M s.r.o as a web developer in Chzech Republic\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm graduated as [Higher Technician in Computer Network Systems Management](https://www.todofp.es/dam/jcr:525bf081-bd23-482f-bd89-1151f2498373/n-tsadministracionsistemasinformaticosreden-pdf.pdf) at IES La Marisma.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Cyber security, Cloud Engineering.\
 ✍️ &nbsp;In my free time, I learn German, play tennis and train with weights.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
+🌍 &nbsp;I'm free to travel and work at any country. I am a Spanish citizen and I live in Spain.\
 ✉️ &nbsp;You can shoot me an email at volodimiryarmash@gmail.com! I'll try to respond as soon as I can.\
 
 
