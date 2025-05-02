@@ -93,20 +93,13 @@ https://github.com/VolodimirY/ASIR/blob/main/README.md
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
 
 -->
-### 🤝🏻 &nbsp;Connect with Me
+### 📬 Contact Me
 
-<p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/volodimirr__02/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+Feel free to reach out if you’re interested in collaboration, have questions, or just want to connect:
 
-### 🐍 &nbsp;That's How Commits move ...
+- 📧 Email: [volodimiryarmash@gmail.com](mailto:volodyarmash@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/volodimiryarmash](www.linkedin.com/in/volodimir-yarmash-2a8b77316)
+- 📸 Instagram: [@volodyarmash](https://www.instagram.com/vladimirr__02)
 
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <!-- Diseño inspirado en: https://github.com/Adityakanoi2001/-->
