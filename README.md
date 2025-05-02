@@ -99,8 +99,8 @@ https://github.com/VolodimirY/ASIR/blob/main/README.md
 Feel free to reach out if you’re interested in collaboration, have questions, or just want to connect:
 
 - 📧 Email: [volodimiryarmash@gmail.com](mailto:volodyarmash@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/volodimiryarmash](www.linkedin.com/in/volodimir-yarmash-2a8b77316)
-- 📸 Instagram: [@volodyarmash](https://www.instagram.com/vladimirr__02)
+- 💼 LinkedIn: [linkedin.com/in/volodimir-yarmash-2a8b77316](www.linkedin.com/in/volodimir-yarmash-2a8b77316)
+- 📸 Instagram: [@vladimirr__02](https://www.instagram.com/vladimirr__02)
 
 
 <!-- Diseño inspirado en: https://github.com/Adityakanoi2001/-->
