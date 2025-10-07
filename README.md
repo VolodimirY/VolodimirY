@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at IN.TRA.M s.r.o as a web developer in Chzech Republic\
+👨‍💻 &nbsp;I am Currently studying [Cyber Security Higher degree](https://www.todofp.es/dam/jcr:259e09a4-d6b6-484d-acbd-02a898590f49/ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf) at IES La marisma, Spain\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm graduated as [Higher Technician in Computer Network Systems Management](https://www.todofp.es/dam/jcr:525bf081-bd23-482f-bd89-1151f2498373/n-tsadministracionsistemasinformaticosreden-pdf.pdf) at IES La Marisma.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Cyber security, Cloud Engineering.\
